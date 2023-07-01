@@ -12,7 +12,6 @@ I'm looking for a real chance to work in a team that wants to change people's wa
 - Front-end Development with HTML, CSS, JavaScript, React, Angular and NextJS.
 - Node.js.
 - C.
-- Python.
 - User Interface Desing.
 - Responsive Desings.
 - Ease of working in groups.
